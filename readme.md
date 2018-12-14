@@ -54,4 +54,4 @@ The server concurrently supports all the connected clients and displays a list o
 
 
 #### Note -
-This project was created as an assignment for Distribute Systems course at The University of Texas at Arlington.
+This project was created as an assignment for Distributed Systems course at The University of Texas at Arlington.
