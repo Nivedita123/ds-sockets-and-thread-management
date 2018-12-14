@@ -13,9 +13,7 @@ import java.util.TimeZone;
 import javafx.application.Platform;
 
 /*
- * Reference - https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/
- * https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html
- * 
+ * Reference - https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/ 
  * */
 
 // HTTPServer thread which accepts incoming connections and assigns a thread to each client
